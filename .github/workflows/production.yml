@@ -45,4 +45,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ajb426/devops_demo:latest
+          tags: ajb426/is601_hw8:latest
